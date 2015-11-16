@@ -1,0 +1,1 @@
+The source of sitemapgen4j has moved to [github](https://github.com/dfabulich/sitemapgen4j/).
